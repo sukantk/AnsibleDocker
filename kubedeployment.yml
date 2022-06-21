@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
        - name: app
-         image: skole6681/applebite-qaimage:CICD
+         image: skole6681/applebite-qaimage:docker
 ---
 kind: Service
 apiVersion: v1
